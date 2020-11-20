@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvaFosuxME2Kng7XcArdW7RzO2YjiMrAYHGzODVbkpB9ApqyRpqHiOEOuilNZDby95YnbNTAeq2vD0zDaNCgyQ==",
+  "success": true,
+  "projectFilePath": "C:\\fontys\\git\\HKS-kantine\\auth-service\\AuthenticationService\\AuthenticationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maart\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
