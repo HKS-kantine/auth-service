@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uvaFosuxME2Kng7XcArdW7RzO2YjiMrAYHGzODVbkpB9ApqyRpqHiOEOuilNZDby95YnbNTAeq2vD0zDaNCgyQ==",
+  "dgSpecHash": "ToqfKr0YdzUCzxDo0M82JgV4f0u0NgZpi3BGTv0mrg14me0h1FfuFOew38o30TKmVIClFMB1yv1kMqvYkWUuDA==",
   "success": true,
   "projectFilePath": "C:\\fontys\\git\\HKS-kantine\\auth-service\\AuthenticationService\\AuthenticationService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\maart\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\maart\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\maart\\.nuget\\packages\\microsoft.extensions.options\\3.1.10\\microsoft.extensions.options.3.1.10.nupkg.sha512",
+    "C:\\Users\\maart\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.10\\microsoft.extensions.primitives.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
